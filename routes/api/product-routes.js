@@ -6,6 +6,7 @@ const { Product, Category, Tag, ProductTag } = require('../../models');
 // get all products
 router.get('/', async (req, res) => {
   // find all products
+  console.log('Route for products sent!')
   try {
     const productData = await Product.findAll({
       include: [{model: Category}, {model: Tag}],
