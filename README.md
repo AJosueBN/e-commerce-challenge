@@ -19,3 +19,5 @@ Data is seeded with the created development database once you enter schema and s
 # Screenshot of one API request
 
 ![Screenshot 2023-07-11 222541](https://github.com/AJosueBN/week-13-e-commerce-challenge/assets/129113539/4dd6d37d-812a-4d22-9012-90b8f031e5d7)
+
+- Data that is passed through the API platform from the video above forms from syncing Sequelize with the database that is on MySQL and seeding it into the data that has been gathered.
