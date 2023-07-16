@@ -18,5 +18,5 @@ Data is seeded with the created development database once you enter schema and s
 
 # Video of functionality of different types of API requests
 
+https://github.com/AJosueBN/week-13-e-commerce-challenge/assets/129113539/86e16341-f930-4c26-9487-541fda703c33
 
-[DIFF API REQUESTS ECOMMERCE VIDEO.webm](https://github.com/AJosueBN/week-13-e-commerce-challenge/assets/129113539/b88f89d7-8120-4058-a92e-b4c867f5e4e1)
