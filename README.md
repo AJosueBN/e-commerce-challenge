@@ -16,6 +16,7 @@ Data is seeded with the created development database once you enter schema and s
 - Server can start(npm run start) and models are synced 
 - Able to test API requests for categories, products or tags and create, update, or delete data from the database.
 
-# Screenshot of one API request
+# Video of functionality of different types of API requests
 
-![Screenshot 2023-07-11 222541](https://github.com/AJosueBN/week-13-e-commerce-challenge/assets/129113539/4dd6d37d-812a-4d22-9012-90b8f031e5d7)
+
+[DIFF API REQUESTS ECOMMERCE VIDEO.webm](https://github.com/AJosueBN/week-13-e-commerce-challenge/assets/129113539/b88f89d7-8120-4058-a92e-b4c867f5e4e1)
